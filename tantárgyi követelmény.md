@@ -1,0 +1,6 @@
+- Nincs óra konzultáció van
+- e-mailben kommunikálunk
+- a slide segítségével előkell tudni egy témát
+- esszét kinyomtatva 422-be kell leadni
+- téma a PDF-ből
+- saját gépen demonstrálni kell MATLAB-ban beírt esszét

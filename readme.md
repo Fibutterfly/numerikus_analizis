@@ -1,0 +1,1 @@
+Demonstrációk:  https://github.com/Fibutterfly/numerikus_analizis_demo
